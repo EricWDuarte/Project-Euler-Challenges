@@ -1,7 +1,0 @@
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 17\Exercise 17\Exercise 17\bin\Debug\Exercise 17.exe.config
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 17\Exercise 17\Exercise 17\bin\Debug\Exercise 17.exe
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 17\Exercise 17\Exercise 17\bin\Debug\Exercise 17.pdb
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 17\Exercise 17\Exercise 17\obj\Debug\Exercise 17.csprojAssemblyReference.cache
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 17\Exercise 17\Exercise 17\obj\Debug\Exercise 17.csproj.CoreCompileInputs.cache
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 17\Exercise 17\Exercise 17\obj\Debug\Exercise 17.exe
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 17\Exercise 17\Exercise 17\obj\Debug\Exercise 17.pdb

@@ -1,7 +1,0 @@
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 30\Exercise 30\Exercise 30\bin\Debug\Exercise 30.exe.config
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 30\Exercise 30\Exercise 30\bin\Debug\Exercise 30.exe
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 30\Exercise 30\Exercise 30\bin\Debug\Exercise 30.pdb
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 30\Exercise 30\Exercise 30\obj\Debug\Exercise 30.csprojAssemblyReference.cache
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 30\Exercise 30\Exercise 30\obj\Debug\Exercise 30.csproj.CoreCompileInputs.cache
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 30\Exercise 30\Exercise 30\obj\Debug\Exercise 30.exe
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 30\Exercise 30\Exercise 30\obj\Debug\Exercise 30.pdb

@@ -1,7 +1,0 @@
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 6\Exercise 6\Exercise 6\bin\Debug\Exercise 6.exe.config
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 6\Exercise 6\Exercise 6\bin\Debug\Exercise 6.exe
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 6\Exercise 6\Exercise 6\bin\Debug\Exercise 6.pdb
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 6\Exercise 6\Exercise 6\obj\Debug\Exercise 6.csprojAssemblyReference.cache
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 6\Exercise 6\Exercise 6\obj\Debug\Exercise 6.csproj.CoreCompileInputs.cache
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 6\Exercise 6\Exercise 6\obj\Debug\Exercise 6.exe
-\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 6\Exercise 6\Exercise 6\obj\Debug\Exercise 6.pdb
