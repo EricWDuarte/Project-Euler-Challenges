@@ -1,0 +1,7 @@
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 23\Exercise 23\Exercise 23\bin\Debug\Exercise 23.exe.config
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 23\Exercise 23\Exercise 23\bin\Debug\Exercise 23.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 23\Exercise 23\Exercise 23\bin\Debug\Exercise 23.pdb
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 23\Exercise 23\Exercise 23\obj\Debug\Exercise 23.csprojAssemblyReference.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 23\Exercise 23\Exercise 23\obj\Debug\Exercise 23.csproj.CoreCompileInputs.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 23\Exercise 23\Exercise 23\obj\Debug\Exercise 23.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 23\Exercise 23\Exercise 23\obj\Debug\Exercise 23.pdb
