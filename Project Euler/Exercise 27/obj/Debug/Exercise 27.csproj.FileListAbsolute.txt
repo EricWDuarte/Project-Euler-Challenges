@@ -1,0 +1,7 @@
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 27\Exercise 27\Exercise 27\bin\Debug\Exercise 27.exe.config
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 27\Exercise 27\Exercise 27\bin\Debug\Exercise 27.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 27\Exercise 27\Exercise 27\bin\Debug\Exercise 27.pdb
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 27\Exercise 27\Exercise 27\obj\Debug\Exercise 27.csprojAssemblyReference.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 27\Exercise 27\Exercise 27\obj\Debug\Exercise 27.csproj.CoreCompileInputs.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 27\Exercise 27\Exercise 27\obj\Debug\Exercise 27.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 27\Exercise 27\Exercise 27\obj\Debug\Exercise 27.pdb
