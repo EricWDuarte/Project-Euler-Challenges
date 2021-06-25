@@ -1,0 +1,7 @@
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 13\Exercise 13\Exercise 13\bin\Debug\Exercise 13.exe.config
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 13\Exercise 13\Exercise 13\bin\Debug\Exercise 13.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 13\Exercise 13\Exercise 13\bin\Debug\Exercise 13.pdb
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 13\Exercise 13\Exercise 13\obj\Debug\Exercise 13.csprojAssemblyReference.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 13\Exercise 13\Exercise 13\obj\Debug\Exercise 13.csproj.CoreCompileInputs.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 13\Exercise 13\Exercise 13\obj\Debug\Exercise 13.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 13\Exercise 13\Exercise 13\obj\Debug\Exercise 13.pdb
