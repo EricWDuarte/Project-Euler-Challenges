@@ -1,0 +1,3 @@
+Nesse desafio eu decidi tentar deduzir qual a fórmula matemárica que resolve o problema
+
+2n!/(n!*n!)
