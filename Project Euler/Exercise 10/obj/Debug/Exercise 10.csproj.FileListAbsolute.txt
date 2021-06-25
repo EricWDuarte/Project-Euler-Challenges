@@ -1,0 +1,7 @@
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 10\Exercise 10\Exercise 10\bin\Debug\Exercise 10.exe.config
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 10\Exercise 10\Exercise 10\bin\Debug\Exercise 10.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 10\Exercise 10\Exercise 10\bin\Debug\Exercise 10.pdb
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 10\Exercise 10\Exercise 10\obj\Debug\Exercise 10.csprojAssemblyReference.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 10\Exercise 10\Exercise 10\obj\Debug\Exercise 10.csproj.CoreCompileInputs.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 10\Exercise 10\Exercise 10\obj\Debug\Exercise 10.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 10\Exercise 10\Exercise 10\obj\Debug\Exercise 10.pdb
