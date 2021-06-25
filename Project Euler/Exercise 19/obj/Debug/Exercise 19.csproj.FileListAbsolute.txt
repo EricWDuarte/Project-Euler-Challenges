@@ -1,0 +1,7 @@
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 19\Exercise 19\Exercise 19\bin\Debug\Exercise 19.exe.config
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 19\Exercise 19\Exercise 19\bin\Debug\Exercise 19.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 19\Exercise 19\Exercise 19\bin\Debug\Exercise 19.pdb
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 19\Exercise 19\Exercise 19\obj\Debug\Exercise 19.csprojAssemblyReference.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 19\Exercise 19\Exercise 19\obj\Debug\Exercise 19.csproj.CoreCompileInputs.cache
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 19\Exercise 19\Exercise 19\obj\Debug\Exercise 19.exe
+\\ERIC-PC\Users\Eric\Desktop\Programming Exercises\Exercise 19\Exercise 19\Exercise 19\obj\Debug\Exercise 19.pdb
